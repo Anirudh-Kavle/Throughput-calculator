@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+numpy
+io
+base64
+matplotlib
+seaborn
