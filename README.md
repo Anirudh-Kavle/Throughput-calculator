@@ -2,6 +2,8 @@
 
 A web application for analyzing and comparing Channel Quality Indicator (CQI) actual vs. predicted data, calculating throughput, and evaluating throughput efficiency. Built with [Streamlit](https://streamlit.io/), it provides an interactive interface for uploading data files, processing them, and downloading results.
 
+Link: https://iitj-wcn-lab-throughput-calculator.streamlit.app/
+
 ---
 
 ## Features
